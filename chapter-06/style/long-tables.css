@@ -1,0 +1,8 @@
+table,thead,tbody,th,td,tfoot{
+  border: 3px solid black;
+}
+
+table{
+  border-collapse: collapse;
+  width: 25%;
+}
